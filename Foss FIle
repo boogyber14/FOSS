@@ -1,0 +1,73 @@
+15 FOSS (Free and Open Source Software) tools for real-time collaboration, along with their features, price (if applicable), and link to their official websites:
+
+    1. Etherpad:
+Features: Real-time collaborative editing, chat functionality, revision history.
+Price: Free and open source.
+Link: Etherpad
+    2. OnlyOffice:
+Features: Real-time document collaboration, chat, video conferencing, project management.
+Price: Community Edition is free, paid plans for additional features and support.
+Link: OnlyOffice
+    3. Nextcloud:
+Features: File sharing, document collaboration, chat, calendar, video calls.
+Price: Community Edition is free, Nextcloud Online offers hosted solutions with pricing based on features and users.
+Link: Nextcloud
+    4. Collabora Online:
+Features: Real-time document editing, collaboration, integration with Nextcloud, file sharing.
+Price: Free and open source, Collabora Office subscription for advanced features and support.
+Link: Collabora Online
+    5. GitLab:
+Features: Version control, issue tracking, wiki, merge requests, CI/CD.
+Price: GitLab Community Edition is free, paid plans for additional features and support.
+Link: GitLab
+    6. Zulip:
+Features: Real-time chat, threaded conversations, file sharing, integrations.
+Price: Free and open source.
+Link: Zulip
+    7. Rocket.Chat:
+Features: Real-time chat, file sharing, video conferencing, screen sharing.
+Price: Free and open source, Rocket.Chat Cloud for hosted solutions with pricing based on features and users.
+Link: Rocket.Chat
+    8. Mattermost:
+Features: Real-time chat, threaded conversations, file sharing, integrations.
+Price: Free and open source, Mattermost Enterprise Edition for advanced features and support.
+Link: Mattermost
+
+
+    9. Drawpile:
+Features: Real-time collaborative drawing, chat, layer support, brush presets.
+Price: Free and open source.
+Link: Drawpile
+    10. Firepad:
+Features: Real-time collaborative text editing, rich text formatting, cursor tracking.
+Price: Free and open source.
+Link: Firepad
+
+    11. CryptPad:
+Features: Encrypted collaborative editing of documents, spreadsheets, presentations, polls, and whiteboards.
+Price: Free and open source, premium plans available for additional features and support.
+Link: CryptPad
+
+    12. Riot.im (Matrix):
+Features: Real-time chat, VoIP, file sharing, end-to-end encryption, bridging with other chat platforms.
+Price: Free and open source.
+Link: Riot.im
+
+    13. Jitsi Meet:
+Features: Video conferencing, screen sharing, chat, encryption, no account required.
+Price: Free and open source.
+Link: Jitsi Meet
+
+    14. BigBlueButton:
+Features: Web conferencing, real-time collaboration tools, screen sharing, breakout rooms.
+Price: Free and open source.
+Link: BigBlueButton
+
+    15. Riseup Pad:
+Features: Real-time collaborative editing of plain text documents.
+Price: Free and open source.
+Link: Riseup Pad
+
+
+
+These tools offer a variety of features for real-time collaboration, ranging from document editing and chat to version control and drawing. Depending on your specific needs and preferences, you can choose the tool that best fits your requirements.
